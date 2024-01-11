@@ -1,3 +1,13 @@
+
+![Screenshot 2024-01-11 222730](https://github.com/PhyoZayHtike/MyChannel_Movie_Website_with_React/assets/143343820/3d7923fc-131f-4088-a09f-2df1af930f3c)
+
+![Screenshot 2024-01-11 222740](https://github.com/PhyoZayHtike/MyChannel_Movie_Website_with_React/assets/143343820/cbb0ea7e-299d-4524-9da9-a9756a24528d)
+
+
+![Screenshot 2024-01-11 222748](https://github.com/PhyoZayHtike/MyChannel_Movie_Website_with_React/assets/143343820/c8310f4f-1fa0-4932-ae26-b8c7b77fd5af)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
